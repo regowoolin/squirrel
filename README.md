@@ -93,19 +93,8 @@
   * Sparkle  (MIT License)
   * UTF8-CPP  (Boost Software License)
   * yaml-cpp  (MIT License)
+其实网上有很多现成的配置，用起来也是很舒服的，感觉比原生的好用，比手心输入法之类的都好用。
+感觉捡到宝贝了。
 
-感謝王公子捐贈開發用機。
 
-問題與反饋
----
 
-發現程序有 BUG，或建議，或感想，請反饋到
-https://github.com/rime/home/issues
-
-聯繫方式
----
-
-技術交流，歡迎光臨 [Rime 代碼之家](https://github.com/rime/home)，
-或致信 Rime 開發者 <rimeime@gmail.com>。
-
-謝謝
